@@ -1,2 +1,2 @@
-how to use this fontawsomePro icon 
+how to use this fontawsomePro icon library
 -link css/all.css
